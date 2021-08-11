@@ -10,10 +10,18 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
+		"@react-native-community/masked-view": "^0.1.11",
 		"bcryptjs": "^2.4.3",
 		"express": "^4.17.1",
 		"jsonwebtoken": "^8.5.1",
 		"mongoose": "^5.13.6",
-		"nodemon": "^2.0.12"
+		"nodemon": "^2.0.12",
+		"react-native-gesture-handler": "^1.10.3",
+		"react-native-reanimated": "^2.2.0",
+		"react-native-safe-area-context": "^3.3.0",
+		"react-native-screens": "^3.5.0",
+		"react-navigation": "^4.4.4",
+		"react-navigation-stack": "^2.10.4",
+		"react-navigation-tabs": "^2.11.1"
 	}
 }
